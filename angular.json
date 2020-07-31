@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular7-crash-course-demo"
+    }
+  },
+  "defaultProject": "angular7-crash-course-demo",
+  "cli": {
+    "analytics": "9126cbae-6265-41e8-af34-2debfd95c269"
+  }
 }
